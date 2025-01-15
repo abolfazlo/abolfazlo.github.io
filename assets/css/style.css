@@ -357,7 +357,7 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #9cf907;
+  background-color: #e0c722;
   border-left: 5px solid;
 }
 
