@@ -308,11 +308,11 @@ dt {
 }
 
 ul.side-nav {
-  width: 190px;
+  width: 290px;
 }
 
 ul.side-nav li {
-  padding: 10;
+  padding: 5;
 }
 
 /* ul.side-nav.fixed a {
@@ -357,8 +357,8 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #e0c722;
-  border-left: 3px solid;
+  background-color: #9cf907;
+  border-left: 5px solid;
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
@@ -482,7 +482,7 @@ h3 {
 .card li a {
   margin-right: 0;
   color: #333;
-  border-bottom: 2px solid #ffab40;
+  border-bottom: 2px solid #4043ff;
 }
 
 .card li a:hover {
