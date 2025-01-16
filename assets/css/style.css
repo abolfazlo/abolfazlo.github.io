@@ -458,7 +458,7 @@ h3 {
 }
 
 .card {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   transition: transform 0.4s ease, box-shadow 0.4s ease; /* Smooth transition */
 }
 
@@ -491,7 +491,7 @@ h3 {
 }
 
 .card .card-content {
-  padding-bottom: 30px;
+  padding-bottom: 0px;
 }
 
 .card .card-content p {
