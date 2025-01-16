@@ -1,7 +1,7 @@
 .profile-pic {
   position: relative;
-  max-width:150px;
-  max-height:150px;
+  max-width:120px;
+  max-height:120px;
   width: auto;
   height: auto;
   overflow: hidden;
@@ -9,7 +9,7 @@
   
   
   /* background-size: cover;  */
-  margin: -40px; 
+  margin: -60px; 
   margin-left:0px;
   border: 6px solid rgba(236, 239, 239, 0); 
   border-radius: 50% !important;
@@ -274,7 +274,7 @@ nav {
 } */
 
 nav i {
-  padding: 0 15px;
+  padding: 0 10px;
   position: relative;
   top: 5px;
   margin: -5 0px;
@@ -312,7 +312,7 @@ ul.side-nav {
 }
 
 ul.side-nav li {
-  padding: 2;
+  padding: 0;
 }
 
 /* ul.side-nav.fixed a {
@@ -347,7 +347,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 ul.side-nav.fixed li.logo {
   background-color: #ffffff00;
   box-sizing: content-box;
-  min-height: 90px;
+  min-height: 50px;
   padding: 30px 30px 40px;
 }
 
