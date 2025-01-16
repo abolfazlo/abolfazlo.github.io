@@ -196,7 +196,7 @@ body {
 }
 
 .zoom-effect:hover {
-  transform: scale(1.2) translateY(-0px); /* Zoom out and move upwards */
+  transform: scale(1.05) translateY(-0px); /* Zoom out and move upwards */
   box-shadow: 0px 8px 20px rgba(147, 185, 21, 0.7); /* More prominent shadow */
   background-color: rgb(102, 126, 236); /* Slightly darker background on hover */
   transition: transform 0.6s ease, box-shadow 0.6s ease, background-color 0.6s ease;
